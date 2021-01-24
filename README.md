@@ -1,0 +1,2 @@
+Go RabbitMQ Crash Course!
+==========================
