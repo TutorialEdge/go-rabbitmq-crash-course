@@ -26,6 +26,8 @@ func (r *RabbitMQ) Connect() error {
 		return err
 	}
 	fmt.Println("Successfully Connected to RabbitMQ")
+
+	return nil
 }
 
 // NewRabbitMQService - returns a pointer to a new RabbitMQ service
